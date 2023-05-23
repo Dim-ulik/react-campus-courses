@@ -1,0 +1,33 @@
+* {
+    font-family: Roboto Slab;
+}
+
+body {
+    background-image: url("./images/background.png");
+
+    background-attachment: fixed;
+    padding-bottom: 20px;
+}
+
+.header {
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 20px;
+    color: #006d5c;
+}
+
+.gray-header {
+    color: #3a3a3a;
+}
+
+.spinner {
+    position: absolute;
+    top:0;
+    left:0;
+    right:0;
+    bottom:0;
+    margin:auto;
+    width: 200px;
+    height: 200px;
+}
+

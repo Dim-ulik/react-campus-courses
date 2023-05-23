@@ -1,0 +1,57 @@
+.customButton {
+    font-size: 20px;
+    min-width: 200px;
+    border: 0;
+}
+
+.green {
+    background-color: #006d5c;
+}
+
+.green:hover {
+    background-color: #00483d;
+}
+
+.green:focus:active {
+    background-color: #006d5c;
+}
+
+.green:disabled {
+    background-color: rgba(0, 108, 92, 0.55);
+}
+
+.red {
+    background-color: #ad0000;
+}
+
+.red:hover {
+    background-color: #700000;
+}
+
+.red:focus:active {
+    background-color: #ad0000;
+}
+
+.gray {
+    background-color: #9b9b9b;
+}
+
+.gray:hover {
+    background-color: #5b5b5b;
+}
+
+.gray:focus:active {
+    background-color: #9b9b9b;
+}
+
+.yellow {
+    background-color: #d98f00;
+}
+
+.yellow:hover {
+    background-color: #b47800;
+}
+
+.yellow:focus:active {
+    background-color: #d98f00;
+}

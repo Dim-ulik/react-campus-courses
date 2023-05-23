@@ -1,0 +1,11 @@
+.selectTeacher {
+    border-radius: 10px;
+    width: 100%;
+    height: 100px;
+}
+
+.label {
+    font-weight: bolder;
+    color: #006d5c;
+    margin-bottom: 10px;
+}

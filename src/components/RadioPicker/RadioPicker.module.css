@@ -1,0 +1,16 @@
+.label {
+    font-weight: bolder;
+    color: #006d5c;
+}
+
+.redStar {
+    color: maroon;
+}
+
+.choiceGroup span:not(:first-child) {
+    margin-left: 10px;
+}
+
+.choice {
+    margin-left: 4px;
+}

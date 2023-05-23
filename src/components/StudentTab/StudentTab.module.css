@@ -1,0 +1,61 @@
+.studentBlockBody {
+    padding: 10px;
+    margin-bottom: 5px;
+    border-bottom: 1px solid;
+    border-color: rgba(58, 58, 58, 0.22);
+}
+
+.studentName {
+    color: #006d5c;
+    font-weight: bolder;
+}
+
+.studentEmail {
+    color: #3a3a3a;
+    font-size: 18px
+}
+
+.statusAccepted {
+    background-color: #c0e0cf;
+}
+
+.statusInQueue {
+    background-color: #ffea75;
+}
+
+.statusDeclined {
+    background-color: #fccfdd;
+}
+
+.statusLabel {
+    margin-left: 10px;
+    font-size: 13px;
+    border-radius: 6px;
+    padding: 0 5px;
+}
+
+.attestation {
+    color: white;
+    font-size: 15px;
+    display: inline-block;
+    padding: 2px 4px;
+    border-radius: 10px;
+}
+
+.passed {
+    background-color: #006d5c;
+}
+
+.failed {
+    background-color: #a40013;
+}
+
+.notDefined {
+    background-color: #a8a8a8;
+}
+
+.blockHover:hover {
+    background-color: rgba(255, 254, 204, 0.3);
+    cursor: pointer;
+    border-radius: 10px;
+}

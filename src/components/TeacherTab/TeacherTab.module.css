@@ -1,0 +1,25 @@
+.teacherBlockBody {
+    padding: 10px;
+    margin-bottom: 5px;
+    border-bottom: 1px solid;
+    border-color: rgba(58, 58, 58, 0.22);
+}
+
+.teacherName {
+    color: #006d5c;
+    font-weight: bolder;
+}
+
+.teacherEmail {
+    color: #3a3a3a;
+    font-size: 18px
+}
+
+.mainTeacherLabel {
+    margin-left: 10px;
+    font-size: 13px;
+    background-color: #c57000;
+    border-radius: 6px;
+    color: white;
+    padding: 0 5px;
+}

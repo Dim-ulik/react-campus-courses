@@ -1,0 +1,21 @@
+.bigText {
+    text-align: center;
+    font-size: 100px;
+}
+
+@media (max-width: 390px) {
+    .bigText {
+        font-size: 30px;
+    }
+}
+
+@media (max-width: 900px) {
+    .bigText {
+        font-size: 50px;
+    }
+}
+
+.mainPageLogo {
+    display: block;
+    margin: 30px auto;
+}

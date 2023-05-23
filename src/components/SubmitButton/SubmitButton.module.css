@@ -1,0 +1,17 @@
+.submitButton {
+    min-width: 100px;
+    background-color: #006d5c;
+    border: 0;
+}
+
+.submitButton:hover {
+    background-color: #00483d;
+}
+
+.submitButton:focus:active {
+    background-color: #006d5c;
+}
+
+.submitButton:disabled {
+    background-color: rgba(0, 108, 92, 0.55);
+}

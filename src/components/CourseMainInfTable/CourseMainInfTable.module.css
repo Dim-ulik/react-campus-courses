@@ -1,0 +1,42 @@
+.courseStatusOpen {
+    color: #006c5c;
+}
+
+.courseStatusClosed {
+    color: #700000;
+}
+
+.courseStatusInProcess {
+    color: darkblue;
+}
+
+.courseStatusCreated {
+    color: #3a3a3a;
+}
+
+.boldLabel {
+    font-weight: bolder;
+}
+
+.tableBlock {
+    border: solid 1px #d3d3d3;
+    font-size: 20px;
+    min-height: 50px;
+    padding: 0 10px;
+    vertical-align: center;
+    background-color: rgba(255, 255, 255, 0.63);
+}
+
+.infTable > div:first-child {
+    border-radius: 25px 25px 0 0;
+}
+
+.infTable > div:last-child {
+    border-radius: 0 0 25px 25px;
+}
+.infTable > div:not(div:last-child) {
+    border-bottom: 0;
+}
+.editButton {
+    margin-top: 9px;
+}

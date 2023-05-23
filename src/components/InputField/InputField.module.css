@@ -1,0 +1,13 @@
+.label {
+    font-weight: bolder;
+    color: #006d5c;
+}
+
+.inputField {
+    min-width: 200px;
+}
+
+.redStar {
+    color: maroon;
+    margin-left: -3px;
+}

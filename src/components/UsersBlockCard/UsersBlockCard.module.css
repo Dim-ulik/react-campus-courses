@@ -1,0 +1,16 @@
+.cardBlock {
+    border: solid 1px #d3d3d3;
+    border-radius: 10px;
+    font-size: 20px;
+    vertical-align: center;
+    background-color: rgba(255, 255, 255, 0.63);
+    padding: 20px;
+}
+
+.cardContent {
+    padding: 0 10px;
+}
+
+.labelTab {
+    color: #006d5c;
+}
